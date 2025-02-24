@@ -3,7 +3,7 @@
 # Data-Science
 
 This repository contains a data science project focused on analyzing and modeling data to gain insights and make predictions.
-1. Exploratory Data Analysis (EDA) - including scoping, data gathering & cleaning, EDA, and feature engineering
+1. [Exploratory Data Analysis (EDA)](https://github.com/evan-dg31/Data-Science/tree/61d823c27159d03c327c95d0695285cfa45d1518/Exploratory%20Data%20Analysis%20(EDA)) - including scoping, data gathering & cleaning, EDA, and feature engineering
 2. Regression Analysis - including linear & regularized regression, forecasting, and validation & testing
 3. Classification Analysis - including KNN, logistic regression, decision trees, random forests, GBMs, XGBoost
 4. Cluster Analysis - including clustering, anomaly detection, dimensionality reduction, and recommenders
