@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/8653788b-e09a-44c1-89a6-34a776cdb015)
+
 # Data-Science
 
 This repository contains a data science project focused on analyzing and modeling data to gain insights and make predictions.
