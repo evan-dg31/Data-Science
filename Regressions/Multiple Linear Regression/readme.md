@@ -5,6 +5,8 @@
 This repository demonstrates how to perform multiple linear regression using two popular Python libraries: statsmodels and scikit-learn. 
 Both libraries offer different approaches to fitting regression models, and this project showcases how to use each of them.
 
+### Projects:
+* [San Francisco Rent Price](https://github.com/evan-dg31/Data-Science/blob/d2a6ccd6ae4a33020d39d409fbb1a44cc8e3078a/Regressions/Multiple%20Linear%20Regression/San%20Francisco%20Rent%20Price.ipynb)
 ### Libraries Used
 * statsmodels: Provides more detailed statistical analysis and diagnostics for linear regression models.
 * scikit-learn: A machine learning library that offers a straightforward approach for fitting regression models, with an emphasis on machine learning workflows.
