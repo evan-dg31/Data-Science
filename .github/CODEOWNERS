@@ -1,0 +1,6 @@
+# CODEOWNERS for Data Science Project
+# Each line is a file pattern followed by one or more GitHub usernames or teams
+# Reviewers will be requested automatically for pull requests touching those files
+
+# --- Default owners for everything ---
+*       @evan-dg31
